@@ -1,2 +1,10 @@
-# about
-## this is my first repository in github
+# Firsttesting
+
+A simple C++ CLI Hello World application.
+
+## How to Run Locally (if you have g++ installed)
+
+```bash
+g++ Main.cpp -o hello_world
+./hello_world
+```
