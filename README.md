@@ -119,12 +119,6 @@ Then recompile and run!
 
 ---
 
-##  Contributing
-
-Since this is a personal/test project, feel free to fork, modify, and learn from it. Pull requests are welcome if you’d like!
-
----
-
 ## 🌟 Show Some Love
 
 If you found this helpful, consider starring ⭐ this repository — it helps others discover it too!
