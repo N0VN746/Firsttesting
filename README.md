@@ -128,7 +128,3 @@ Since this is a personal/test project, feel free to fork, modify, and learn from
 ## 🌟 Show Some Love
 
 If you found this helpful, consider starring ⭐ this repository — it helps others discover it too!
-
----
-
-Let me know if you’d like to add badges (CI status, coverage, etc.), screenshots, or expand into a full tutorial-style README! 😊
