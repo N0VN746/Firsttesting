@@ -121,7 +121,7 @@ Then recompile and run!
 
 ##  Contributing
 
-Since this is a personal/test project, feel free to fork, modify, and learn from it. Pull requests are welcome if you’d like to improve documentation or add features!
+Since this is a personal/test project, feel free to fork, modify, and learn from it. Pull requests are welcome if you’d like!
 
 ---
 
