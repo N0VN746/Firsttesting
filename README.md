@@ -6,6 +6,7 @@ A simple C++ CLI Hello World application.
 Unix-like systems
 ```bash
 g++ Main.cpp -o hello_world
+chmod +x hello_world
 ./hello_world
 ```
 or
