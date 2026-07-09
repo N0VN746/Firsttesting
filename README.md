@@ -125,12 +125,6 @@ Since this is a personal/test project, feel free to fork, modify, and learn from
 
 ---
 
-##  License
-
-This project is open source and available under the MIT License. See [`LICENSE`](LICENSE) for details.
-
----
-
 ## 🌟 Show Some Love
 
 If you found this helpful, consider starring ⭐ this repository — it helps others discover it too!
