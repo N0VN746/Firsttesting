@@ -1,5 +1,5 @@
 
-# 🚀 Firsttesting  
+# 🚀 First-testing  
 *A minimal C++ CLI Hello World application for learning or demonstration purposes.*
 
 ---
